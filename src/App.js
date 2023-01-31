@@ -1,6 +1,8 @@
 import "./App.css";
+import Tags from "./Tags";
 
 function App() {
+
   return (
     <div className="App">
       <section class="hero">
@@ -13,6 +15,7 @@ function App() {
         <div class="notification">
           Edit the <code>./src</code> folder to add components.
         </div>
+        <Tags tags={["boomdotdev", "task", "tags", "react"]} />
       </div>
     </div>
   );
