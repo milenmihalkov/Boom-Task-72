@@ -1,4 +1,3 @@
-
 import React from "react";
 
 const Tags = ({ tags }) => {
@@ -14,4 +13,3 @@ const Tags = ({ tags }) => {
 };
 
 export default Tags;
-
