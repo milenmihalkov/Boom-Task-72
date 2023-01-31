@@ -15,7 +15,7 @@ function App() {
         <div class="notification">
           Edit the <code>./src</code> folder to add components.
         </div>
-        <Tags tags={["boomdotdev", "task", "tags", "react"]} />
+        <Tags tags={["boomdotdev", "task", "tags", "react"]} /> 
       </div>
     </div>
   );
